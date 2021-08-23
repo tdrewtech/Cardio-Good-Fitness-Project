@@ -21,8 +21,8 @@ Objectives :
 
 Questions to be answered :
 
-How many models does store have?
-Which is most sold Model?
+- How many models does store have?
+- Which is most sold Model?
 Are Male customers buying treadmill more than female customers?
 What is the Income, Age, Education of people buying treadmill?
 How many days and miles customer expect to run on treadmill?
